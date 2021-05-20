@@ -15,14 +15,14 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # baseUrl: /upptime
-  logoUrl: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-ServerIcon.png
+  # baseUrl: BetterCrewLink-status
+  logoUrl: https://github.com/OhMyGuus/BetterCrewLink/blob/nightly/raw/renderer/logos/sizes/256-BCL-Logo-shadow.png
   name: BetterCrewLink Status
   introTitle: "BetterCrewLink's status site for our services"
   introMessage: A status site for our services, some important and mod-needed (the BetterCrewLink Voice Server, Web and OBS Overlay) and some vanity / non-important (the Short URL)
   navbar:
     - title: Status
-      href: /bettercrewlink-status
+      href: /BetterCrewLink-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
