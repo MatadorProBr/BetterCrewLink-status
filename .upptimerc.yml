@@ -23,6 +23,7 @@ status-website:
   name: BetterCrewLink Status
   introTitle: "BetterCrewLink's status site for our services"
   introMessage: A status site for our services, some important and mod-needed (the BetterCrewLink Voice Server, Web and OBS Overlay) and some vanity / non-important (the Short URL)
+  theme: dark
   navbar:
     - title: Status
       href: /BetterCrewLink-status
