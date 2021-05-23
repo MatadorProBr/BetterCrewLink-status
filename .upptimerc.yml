@@ -20,6 +20,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /BetterCrewLink-status
   logoUrl: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/sizes/256-BCL-Logo-shadow.png
+  favicon: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
+  faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
   name: BetterCrewLink Status
   introTitle: "BetterCrewLink's status site for our services"
   introMessage: A status site for our services, some important and mod-needed (the BetterCrewLink Voice Server, Web and OBS Overlay) and some vanity / non-important (the Short URL)
