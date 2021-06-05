@@ -40,19 +40,19 @@
     "url": "https://obs.bettercrewlink.app",
     "icon": "https://favicons.githubusercontent.com/obs.bettercrewlink.app",
     "slug": "better-crew-link-obs-overlay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 478,
-    "timeDay": 502,
+    "timeDay": 488,
     "timeWeek": 480,
     "timeMonth": 478,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2021-06-05": 0
+      "2021-06-05": 46
     }
   },
   {
