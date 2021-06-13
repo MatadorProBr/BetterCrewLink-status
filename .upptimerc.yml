@@ -12,7 +12,7 @@ sites:
   - name: BetterCrewLink Short URL
     url: https://bettercrewlink.app
 
-assignees: # Users to assign downtime issues
+assignees:
   - OhMyGuus
 
 status-website:
@@ -30,7 +30,7 @@ status-website:
       href: /BetterCrewLink-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-      
+
 notification:
   - type: discord
 
