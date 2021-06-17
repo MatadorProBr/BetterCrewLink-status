@@ -1,6 +1,6 @@
 # [📈 Live Status](https://MatadorProBr.github.io/BetterCrewLink-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) services, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Uptime%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Response+Time+CI%22)
