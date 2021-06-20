@@ -4,13 +4,13 @@ repo: BetterCrewLink-status # The name of this repository
 
 sites:
   - name: BetterCrewLink Voice Server
-    url: https://bettercrewl.ink
+    url: https://bettercrewl.ink/
   - name: BetterCrewLink Web
-    url: https://web.bettercrewl.ink
+    url: https://web.bettercrewl.ink/
   - name: BetterCrewLink OBS Overlay
-    url: https://obs.bettercrewlink.app
+    url: https://obs.bettercrewlink.app/
   - name: BetterCrewLink Short URL
-    url: https://bettercrewlink.app
+    url: https://bettercrewlink.app/
 
 assignees:
   - OhMyGuus
