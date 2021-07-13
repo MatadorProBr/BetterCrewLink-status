@@ -9,6 +9,8 @@ sites:
     url: https://web.bettercrewl.ink/
   - name: BetterCrewLink OBS Overlay
     url: https://obs.bettercrewlink.app/
+  - name: BetterCrewLink Mirror
+    url: https://mirror.bettercrewl.ink/
   - name: BetterCrewLink Short URL
     url: https://bettercrewlink.app/
 
