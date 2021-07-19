@@ -4,9 +4,9 @@
     "url": "https://bettercrewl.ink/",
     "icon": "https://favicons.githubusercontent.com/bettercrewl.ink",
     "slug": "better-crew-link-voice-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 484,
     "timeMonth": 508,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-19": 0
+    }
   },
   {
     "name": "BetterCrewLink Web",
