@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 491,
-    "timeDay": 496,
-    "timeWeek": 462,
-    "timeMonth": 495,
-    "timeYear": 491,
+    "time": 490,
+    "timeDay": 466,
+    "timeWeek": 457,
+    "timeMonth": 493,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2021-07-19": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 491,
-    "timeWeek": 494,
-    "timeMonth": 568,
-    "timeYear": 558,
+    "time": 557,
+    "timeDay": 485,
+    "timeWeek": 492,
+    "timeMonth": 566,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 527,
-    "timeDay": 463,
-    "timeWeek": 523,
-    "timeMonth": 585,
-    "timeYear": 527,
+    "time": 526,
+    "timeDay": 460,
+    "timeWeek": 515,
+    "timeMonth": 581,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2021-06-05": 46
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 509,
-    "timeWeek": 530,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "time": 510,
+    "timeDay": 476,
+    "timeWeek": 517,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/bettercrewlink.app",
     "slug": "better-crew-link-short-url",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 976,
     "timeDay": 988,
     "timeWeek": 976,
     "timeMonth": 1012,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2021-07-25": 0
+      "2021-07-25": 7
     }
   }
 ]
