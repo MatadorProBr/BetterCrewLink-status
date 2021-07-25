@@ -13,6 +13,7 @@ sites:
     url: https://mirror.bettercrewl.ink/
   - name: BetterCrewLink Short URL
     url: https://bettercrewlink.app/
+    maxRedirects: 0
 
 assignees:
   - OhMyGuus
