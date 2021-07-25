@@ -13,6 +13,8 @@ sites:
     url: https://mirror.bettercrewl.ink/
   - name: BetterCrewLink Short URL
     url: https://bettercrewlink.app/
+    expectedStatusCodes:
+      - 301
     maxRedirects: 0
 
 assignees:
