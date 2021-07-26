@@ -26,7 +26,6 @@ status-website:
   name: BetterCrewLink Status
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)'s status site for our services"
   introMessage: A status site for our services, some important and mod-needed (Voice Server, Web, OBS Overlay and Mirror) and some vanity / non-important (Short URL)
-  cname: bettercrewlink-status.netlify.app
   navbar:
     - title: Status
       href: /
