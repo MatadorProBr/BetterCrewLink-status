@@ -9,6 +9,7 @@ A status site for our services, some important and mod-needed (Voice Server, Web
 [![Graphs CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Graphs%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Summary%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Summary+CI%22)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e79c4c1-1193-4891-af48-cdb795d2eaf9/deploy-status)](https://app.netlify.com/sites/bettercrewlink-status/deploys)
 
 ## [📈 Status](https://bettercrewlink-status.netlify.app/)
 
