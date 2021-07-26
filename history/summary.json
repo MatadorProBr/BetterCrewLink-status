@@ -81,18 +81,19 @@
     "icon": "https://favicons.githubusercontent.com/bettercrewlink.app",
     "slug": "better-crew-link-short-url",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.93%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.93%",
     "time": 976,
     "timeDay": 988,
     "timeWeek": 976,
     "timeMonth": 1012,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2021-07-25": 7
+      "2021-07-26": 55,
+      "2021-07-25": 9
     }
   }
 ]
