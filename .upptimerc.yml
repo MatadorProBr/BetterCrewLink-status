@@ -3,19 +3,16 @@ owner: MatadorProBr # Your GitHub organization or username, where this repositor
 repo: BetterCrewLink-status # The name of this repository
 
 sites:
-  - name: BetterCrewLink Voice Server
+  - name: Voice Server
     url: https://bettercrewl.ink/
-  - name: BetterCrewLink Web
+  - name: Web Version
     url: https://web.bettercrewl.ink/
-  - name: BetterCrewLink OBS Overlay
+  - name: OBS Overlay
     url: https://obs.bettercrewlink.app/
-  - name: BetterCrewLink Mirror
+  - name: Mirror
     url: https://mirror.bettercrewl.ink/
-  - name: BetterCrewLink Short URL
+  - name: Short URL
     url: https://bettercrewlink.app/
-    expectedStatusCodes:
-      - 301
-    maxRedirects: 0
 
 assignees:
   - OhMyGuus
@@ -28,11 +25,12 @@ status-website:
   favicon: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
   name: BetterCrewLink Status
-  introTitle: "BetterCrewLink's status site for our services"
-  introMessage: A status site for our services, some important and mod-needed (the BetterCrewLink Voice Server, Web, OBS Overlay and Mirror) and some vanity / non-important (the Short URL)
+  introTitle: "[BetterCrewLink's](https://github.com/OhMyGuus/BetterCrewLink) status site for our services"
+  introMessage: A status site for our services, some important and mod-needed (Voice Server, Web, OBS Overlay and Mirror) and some vanity / non-important (Short URL)
+  cname: bettercrewlink-status.netlify.app
   navbar:
     - title: Status
-      href: /BetterCrewLink-status
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
