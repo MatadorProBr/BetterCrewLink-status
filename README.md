@@ -1,15 +1,15 @@
 # BetterCrewLink Status
 
-Welcome to **BetterCrewLink**'s Status repository
-
-A status site for our services, some important and mod-needed (Voice Server, Web, OBS Overlay and Mirror) and some vanity / non-important (Short URL)
-
 [![Uptime CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Uptime%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Graphs%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Summary%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Summary+CI%22)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e79c4c1-1193-4891-af48-cdb795d2eaf9/deploy-status)](https://app.netlify.com/sites/bettercrewlink-status/deploys)
+
+Welcome to **BetterCrewLink**'s Status repository
+
+A status site for our services, some important and mod-needed (Voice Server, Web, OBS Overlay and Mirror) and some vanity / non-important (Short URL)
 
 ## [📈 Status](https://bettercrewlink-status.netlify.app/)
 
