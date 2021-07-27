@@ -40,5 +40,8 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
+i18n:
+  footer: Made with ❤️ by [MatadorProBr](https://github.com/MatadorProBr) and [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink), 🔌 by [Upptime](https://github.com/upptime/upptime).
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
