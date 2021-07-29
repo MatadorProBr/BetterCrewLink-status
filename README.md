@@ -7,9 +7,7 @@
 [![Summary CI](https://github.com/MatadorProBr/BetterCrewLink-status/workflows/Summary%20CI/badge.svg)](https://github.com/MatadorProBr/BetterCrewLink-status/actions?query=workflow%3A%22Summary+CI%22)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e79c4c1-1193-4891-af48-cdb795d2eaf9/deploy-status)](https://app.netlify.com/sites/bettercrewlink-status/deploys)
 
-Welcome to **BetterCrewLink**'s Status repository
-
-A status site for our services, some important and mod-needed (Voice Server, Web, OBS Overlay and Mirror) and some vanity / non-important (Short URL)
+A Upptime repository status for our services, some important and mod-needed (Voice Server, Web, Overlay and Mirror) and some vanity / non-important (Short URL)
 
 ## [📈 Status](https://bettercrewlink-status.netlify.app/)
 
