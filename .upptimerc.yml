@@ -26,7 +26,7 @@ status-website:
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
   name: BetterCrewLink Status
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)'s status site for our services"
-  introMessage: A status site for our services, some important and mod-needed (Voice Server, Web, OBS Overlay and Mirror) and some vanity / non-important (Short URL)
+  introMessage: A status site for our services, some important and mod-needed (Voice Server, Web, Overlay and Mirror) and some vanity / non-important (Short URL)
   navbar:
     - title: Status
       href: /
