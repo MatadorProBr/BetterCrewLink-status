@@ -24,7 +24,7 @@ status-website:
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
   name: BetterCrewLink Status
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)'s status site for our services"
-  introMessage: A status site for our services, some important and mod-needed ([Voice Server](https://bettercrewlink-status.netlify.app/history/voice-server), [Web](https://bettercrewlink-status.netlify.app/history/web-version), [Overlay](https://bettercrewlink-status.netlify.app/history/obs-overlay) and [Mirror](https://bettercrewlink-status.netlify.app/history/obs-overlay)) and some vanity / non-important ([Short URL](https://bettercrewlink-status.netlify.app/history/short-url))
+  introMessage: A status site for our services, some important and mod-needed ([Voice Server](/history/voice-server), [Web](/history/web-version), [Overlay](/history/obs-overlay) and [Mirror](/history/obs-overlay)) and some vanity / non-important ([Short URL](/history/short-url))
   navbar:
     - title: Status
       href: /
