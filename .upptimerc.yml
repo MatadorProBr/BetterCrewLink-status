@@ -18,20 +18,20 @@ assignees:
   - OhMyGuus
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: bettercrewlink-status.netlify.app
   logoUrl: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
   favicon: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
   name: BetterCrewLink Status
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)'s status site for our services"
-  introMessage: A status site for our services, some important and mod-needed (Voice Server, Web, Overlay and Mirror) and some vanity / non-important (Short URL)
+  introMessage: A status site for our services, some important and mod-needed ([Voice Server](https://bettercrewlink-status.netlify.app/history/voice-server), [Web](https://bettercrewlink-status.netlify.app/history/web-version), [Overlay](https://bettercrewlink-status.netlify.app/history/obs-overlay) and [Mirror](https://bettercrewlink-status.netlify.app/history/obs-overlay)) and some vanity / non-important ([Short URL](https://bettercrewlink-status.netlify.app/history/short-url))
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: BetterCrewLink GitHub
+      href: https://github.com/OhMyGuus/BetterCrewLink
 
 notification:
   - type: discord
