@@ -5,8 +5,10 @@ repo: BetterCrewLink-status # The name of this repository
 sites:
   - name: Voice Server
     url: https://bettercrewl.ink/
+    icon: https://raw.githubusercontent.com/OhMyGuus/BetterCrewLink/nightly/src/renderer/logos/BCL-Logo-shadow.svg
   - name: Web Version
     url: https://web.bettercrewl.ink/
+    icon: https://raw.githubusercontent.com/OhMyGuus/BetterCrewlink-mobile/master/src/assets/icon/favicon.png
   - name: OBS Overlay
     url: https://obs.bettercrewlink.app/
   - name: Mirror
@@ -22,7 +24,7 @@ status-website:
   logoUrl: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
   favicon: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
-  name: BetterCrewLink Status Test
+  name: BetterCrewLink Status
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)'s status site for our services"
   introMessage: A status site for our services, some important and mod-needed ([Voice Server](/history/voice-server), [Web](/history/web-version), [Overlay](/history/obs-overlay) and [Mirror](/history/mirror)) and some vanity / non-important ([Short URL](/history/short-url))
   navbar:
