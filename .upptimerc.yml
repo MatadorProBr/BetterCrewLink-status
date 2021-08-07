@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
   favicon: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.png
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
-  name: BetterCrewLink Status
+  name: BetterCrewLink Status Test
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)'s status site for our services"
   introMessage: A status site for our services, some important and mod-needed ([Voice Server](/history/voice-server), [Web](/history/web-version), [Overlay](/history/obs-overlay) and [Mirror](/history/mirror)) and some vanity / non-important ([Short URL](/history/short-url))
   navbar:
