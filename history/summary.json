@@ -58,18 +58,20 @@
     "url": "https://mirror.bettercrewl.ink/",
     "icon": "https://favicons.githubusercontent.com/mirror.bettercrewl.ink",
     "slug": "mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 472,
     "timeWeek": 504,
     "timeMonth": 530,
     "timeYear": 529,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 2
+    }
   },
   {
     "name": "Short URL",
