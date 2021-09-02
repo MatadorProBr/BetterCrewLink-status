@@ -40,18 +40,20 @@
     "url": "https://obs.bettercrewlink.app/",
     "icon": "https://favicons.githubusercontent.com/obs.bettercrewlink.app",
     "slug": "obs-overlay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 491,
-    "timeWeek": 398,
+    "time": 469,
+    "timeDay": 470,
+    "timeWeek": 404,
     "timeMonth": 467,
-    "timeYear": 470,
-    "dailyMinutesDown": {}
+    "timeYear": 469,
+    "dailyMinutesDown": {
+      "2021-09-02": 0
+    }
   },
   {
     "name": "Mirror",
