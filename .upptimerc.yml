@@ -46,5 +46,12 @@ skipHomepageUpdate: true
 i18n:
   footer: Made with ❤️ by [MatadorProBr](https://github.com/MatadorProBr) and [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink), 🔌 by [Upptime](https://github.com/upptime/upptime).
 
+workflowSchedule:
+  responseTime: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/1 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
