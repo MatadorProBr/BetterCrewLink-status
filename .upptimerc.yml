@@ -47,7 +47,7 @@ i18n:
   footer: Made with ❤️ by [MatadorProBr](https://github.com/MatadorProBr) and [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink), 🔌 by [Upptime](https://github.com/upptime/upptime).
 
 workflowSchedule:
-  responseTime: "*/30 * * * *"
+  responseTime: "*/5 * * * *"
   staticSite: "*/5 * * * *"
   summary: "*/5 * * * *"
   updates: "*/60 * * * *"
