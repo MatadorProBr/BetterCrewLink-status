@@ -11,10 +11,12 @@ sites:
     icon: https://raw.githubusercontent.com/OhMyGuus/BetterCrewlink-mobile/master/src/assets/icon/favicon.png
   - name: OBS Overlay
     url: https://obs.bettercrewlink.app/
+    icon: https://raw.githubusercontent.com/ottomated/CrewLink/master/resources/icon.png
   - name: Mirror
     url: https://mirror.bettercrewl.ink/
   - name: Short URL
     url: https://bettercrewlink.app/
+    icon: https://cdn-icons-png.flaticon.com/512/25/25231.png
 
 assignees:
   - OhMyGuus
