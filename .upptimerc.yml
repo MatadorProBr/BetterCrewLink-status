@@ -17,6 +17,10 @@ sites:
   - name: Short URL
     url: https://bettercrewlink.app/
     icon: https://cdn-icons-png.flaticon.com/512/25/25231.png
+  - name: Auto-Updater (GitHub)
+    url: https://api.github.com/repos/OhMyGuus/BetterCrewLink/releases
+  - name: Hats (GitHub)
+    url: https://api.github.com/repos/OhMyGuus/BetterCrewLink-Hats
 
 assignees:
   - OhMyGuus
