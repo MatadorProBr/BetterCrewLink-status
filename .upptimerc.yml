@@ -17,8 +17,10 @@ sites:
   - name: Short URL
     url: https://bettercrewlink.app/
     icon: https://cdn-icons-png.flaticon.com/512/25/25231.png
+  - name: Offsets (GitHub)
+    url: https://raw.githubusercontent.com/OhMyGuus/BetterCrewlink-Offsets/main
   - name: Auto-Updater (GitHub)
-    url: https://api.github.com/repos/OhMyGuus/BetterCrewLink/releases
+    url: https://raw.githubusercontent.com/OhMyGuus/BetterCrewlink-Hats/master
   - name: Hats (GitHub)
     url: https://api.github.com/repos/OhMyGuus/BetterCrewLink-Hats
 
@@ -51,13 +53,6 @@ skipHomepageUpdate: true
 
 i18n:
   footer: Made with ❤️ by [MatadorProBr](https://github.com/MatadorProBr) and [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink), 🔌 by [Upptime](https://github.com/upptime/upptime).
-
-workflowSchedule:
-  responseTime: "*/5 * * * *"
-  staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
-  updates: "*/60 * * * *"
-  uptime: "*/1 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
