@@ -144,18 +144,18 @@
     "icon": "https://favicons.githubusercontent.com/raw.githubusercontent.com",
     "slug": "offsets-git-hub",
     "status": "down",
-    "uptime": "0.42%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-04-03": 9
+      "2022-04-03": 19
     }
   },
   {
@@ -165,9 +165,9 @@
     "slug": "auto-updater-git-hub",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.56%",
     "time": 660,
     "timeDay": 685,
@@ -175,7 +175,7 @@
     "timeMonth": 700,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2022-04-03": 9,
+      "2022-04-03": 19,
       "2021-12-27": 635,
       "2021-12-26": 145
     }
