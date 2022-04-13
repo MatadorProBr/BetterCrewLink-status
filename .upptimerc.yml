@@ -14,7 +14,7 @@ sites:
     icon: https://raw.githubusercontent.com/ottomated/CrewLink/master/resources/icon.png
   - name: Mirror
     url: https://mirror.bettercrewl.ink/
-  - name: Short URL
+  - name: GitHub Release Redirector
     url: https://bettercrewlink.app/
     icon: https://cdn-icons-png.flaticon.com/512/25/25231.png
   - name: Offsets (GitHub)
