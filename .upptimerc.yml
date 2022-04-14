@@ -11,7 +11,7 @@ sites:
     icon: https://raw.githubusercontent.com/OhMyGuus/BetterCrewlink-mobile/master/src/assets/icon/favicon.png
   - name: Offsets (GitHub)
     url: https://api.github.com/repos/OhMyGuus/BetterCrewlink-Offsets
-  - name: Auto-Updater (GitHub)
+  - name: Updater (GitHub)
     url: https://api.github.com/repos/OhMyGuus/BetterCrewLink/releases
   - name: Hats (GitHub)
     url: https://api.github.com/repos/OhMyGuus/BetterCrewLink-Hats
@@ -35,7 +35,7 @@ status-website:
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
   name: BetterCrewLink Status
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) status site for our services"
-  introMessage: A status site for our services, some important and mod-needed ([Voice Server](/history/voice-server), [Web](/history/web-version), [Overlay](/history/obs-overlay), [Mirror](/history/mirror), [Offsets](/history/offsets-git-hub), [Auto-Updater](/history/auto-updater-git-hub) and [Hats](/history/hats-git-hub)) and some vanity / non-important ([GitHub Release Redirector](/history/git-hub-release-redirector))
+  introMessage: A status site for our services, some important and mod-needed ([Voice Server](/history/voice-server), [Web](/history/web-version), [Offsets](/history/offsets-git-hub), [Updater](/history/updater-git-hub), [Hats](/history/hats-git-hub), [OBS Overlay](/history/obs-overlay) and [Mirror](/history/mirror)) and some vanity / non-important ([GitHub Release Redirector](/history/git-hub-release-redirector))
   navbar:
     - title: Status
       href: /
