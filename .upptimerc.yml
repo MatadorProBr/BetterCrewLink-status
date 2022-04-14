@@ -9,6 +9,12 @@ sites:
   - name: Web Version
     url: https://web.bettercrewl.ink/
     icon: https://raw.githubusercontent.com/OhMyGuus/BetterCrewlink-mobile/master/src/assets/icon/favicon.png
+  - name: Offsets (GitHub)
+    url: https://api.github.com/repos/OhMyGuus/BetterCrewlink-Offsets
+  - name: Auto-Updater (GitHub)
+    url: https://api.github.com/repos/OhMyGuus/BetterCrewLink/releases
+  - name: Hats (GitHub)
+    url: https://api.github.com/repos/OhMyGuus/BetterCrewLink-Hats
   - name: OBS Overlay
     url: https://obs.bettercrewlink.app/
     icon: https://raw.githubusercontent.com/ottomated/CrewLink/master/resources/icon.png
@@ -17,12 +23,6 @@ sites:
   - name: GitHub Release Redirector
     url: https://bettercrewlink.app/
     icon: https://cdn-icons-png.flaticon.com/512/25/25231.png
-  - name: Offsets (GitHub)
-    url: https://api.github.com/repos/OhMyGuus/BetterCrewlink-Offsets
-  - name: Auto-Updater (GitHub)
-    url: https://api.github.com/repos/OhMyGuus/BetterCrewLink/releases
-  - name: Hats (GitHub)
-    url: https://api.github.com/repos/OhMyGuus/BetterCrewLink-Hats
 
 assignees:
   - OhMyGuus
