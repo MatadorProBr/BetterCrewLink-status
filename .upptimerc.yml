@@ -29,7 +29,7 @@ status-website:
   faviconSvg: https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/BCL-AppIcon.svg
   name: BetterCrewLink Status
   introTitle: "[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) status site for our services"
-  introMessage: A status site for our services, some important and mod-needed ([Voice Server](/history/voice-server), [Web](/history/web-version), [Offsets](/history/offsets-git-hub), [Updater](/history/updater-git-hub), [Hats](/history/hats-git-hub), [OBS Overlay](/history/obs-overlay) and [Mirror](/history/mirror)) and some vanity / non-important ([GitHub Release Redirector](/history/git-hub-release-redirector))
+  introMessage: A [Upptime](https://github.com/upptime/upptime) repository status for [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) that checks every single BetterCrewLink service ([Voice Server](/history/voice-server), [Web](/history/web-version), [Offsets](/history/offsets-git-hub), [Updater](/history/updater-git-hub), [Hats](/history/hats-git-hub), [OBS Overlay](/history/obs-overlay) and [Mirror](/history/mirror)) to see if it's up or down.
   navbar:
     - title: Status
       href: /
