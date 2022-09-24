@@ -1,7 +1,7 @@
 url: https://api.github.com/repos/OhMyGuus/BetterCrewLink/releases
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2022-09-23T23:13:02.861Z
+status: down
+code: 403
+responseTime: 83
+lastUpdated: 2022-09-24T16:49:58.361Z
 startTime: Thu Apr 14 2022 16:54:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
