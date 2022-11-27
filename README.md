@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/OhMyGuus/BetterCrewLink">
-    <img src="https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/src/renderer/logos/sizes/256-BCL-Logo-shadow.png" alt="BetterCrewLink Logo">
+    <img src="https://github.com/OhMyGuus/BetterCrewLink/raw/nightly/static/images/logos/sizes/256-BCL-Logo-shadow.png" alt="BetterCrewLink Logo">
   </a>
   <br/>
   <sub>Logo made by <a href="https://github.com/SirBuvex">SirBuvex</a></sub>
