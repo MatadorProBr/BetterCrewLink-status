@@ -33,6 +33,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: New Status Page
+      href: https://status.bettercrewl.ink
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: BetterCrewLink GitHub
